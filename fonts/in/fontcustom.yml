@@ -1,0 +1,45 @@
+# --------------------------------------------------------------------------- #
+# Project Info
+#   Defaults shown. Learn more about these options by running
+#   `fontcustom help` or visiting <http://fontcustom.com>.
+# --------------------------------------------------------------------------- #
+
+font_name: happy-icons
+css_selector: .happy_icon--{{glyph}}
+preprocessor_path: ""
+autowidth: false
+no_hash: false
+force: false
+debug: false
+quiet: false
+preview: false
+
+# --------------------------------------------------------------------------- #
+# Input Paths
+# --------------------------------------------------------------------------- #
+
+input:
+  vectors: ./svgs
+  templates: ./templates
+
+# --------------------------------------------------------------------------- #
+# Templates
+#   Included in Font Custom: preview, css, scss, scss-rails
+#   Custom templates should be saved in the INPUT[:templates] directory and
+#   referenced by their baserame.
+# --------------------------------------------------------------------------- #
+templates:
+    - _normalize.scss
+    - _icon_map.scss
+    - _font_face.scss
+    - icon_array.json
+# --------------------------------------------------------------------------- #
+# Output Paths
+# --------------------------------------------------------------------------- #
+
+output:
+  fonts: ../out/fonts
+  _normalize.scss: ../out/sass
+  _icon_map.scss: ../out/sass
+  _font_face.scss: ../out/sass
+  icon_array.json: ../out

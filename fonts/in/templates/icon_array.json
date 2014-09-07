@@ -1,0 +1,3 @@
+{<% @glyphs.each do |name, value| %>
+    'happy_icon--<%= name.to_s %>',<% end %>
+};

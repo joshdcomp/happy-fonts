@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:svg="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" inkscape:version="0.48.2 r9819" sodipodi:docname="download.svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="1024px" height="1024px"
+	 viewBox="0 0 1024 1024" enable-background="new 0 0 1024 1024" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="493.00811" borderopacity="1.0" bordercolor="#666666" inkscape:zoom="0.62559308" pagecolor="#ffffff" id="base" inkscape:cx="718.10745" inkscape:pageopacity="0.0" inkscape:document-units="px" inkscape:current-layer="layer1" inkscape:window-width="1525" inkscape:pageshadow="2" inkscape:window-maximized="0" inkscape:window-x="1941" inkscape:window-y="6" inkscape:window-height="825">
+	</sodipodi:namedview>
+<g>
+	<circle cx="346.146" cy="244.535" r="125.035"/>
+	<circle cx="679.157" cy="342.182" r="125.035"/>
+	<path d="M848.736,612.992c0-93.656-75.923-130.294-169.579-130.294c-79.75,0-146.629,26.576-164.735,92.29v-58.214
+		c0-0.293-0.017-0.582-0.022-0.873c0.006-0.582,0.022-1.162,0.022-1.746c0-93.656-75.923-130.294-169.579-130.294
+		s-169.579,36.638-169.579,130.294c0,0.584,0.016,1.163,0.022,1.746c-0.005,0.292-0.022,0.58-0.022,0.873V909.62
+		c0,28.928,23.451,52.38,52.38,52.38H370.3v-59.152c0-6.549,3.678-15.805,8.173-20.569l54.505-57.762
+		c4.495-4.764,13.531-8.661,20.081-8.661h117.884c6.549,0,15.586,3.897,20.081,8.661l54.505,57.762
+		c4.495,4.764,8.173,14.02,8.173,20.569V962h142.656c28.928,0,52.38-23.451,52.38-52.38V615.611c0-0.293-0.017-0.582-0.022-0.873
+		C848.72,614.156,848.736,613.576,848.736,612.992z M601.67,735.775c0,6.549-4.641,14.587-10.313,17.862L522.313,793.5
+		c-5.672,3.275-14.953,3.275-20.625,0l-69.044-39.863c-5.672-3.275-10.313-11.313-10.313-17.862V656.05
+		c0-6.549,4.641-14.587,10.313-17.862l69.044-39.863c5.672-3.275,14.953-3.275,20.625,0l69.044,39.863
+		c5.672,3.275,10.313,11.313,10.313,17.862V735.775z"/>
+</g>
+</svg>
