@@ -19,4 +19,4 @@ I haven't had a chance to write helpful docs yet, but the main points to know ar
 Credits
 =======
 
-Thanks to @jaydenseric for [his](http://jaydenseric.com/blog/fun-with-sass-and-font-icons) [tutorials](http://jaydenseric.com/blog/font-icons-like-a-boss-with-sass-and-font-custom) which spurred this idea along. 
+Thanks to [@jaydenseric](https://twitter.com/jaydenseric) for [his](http://jaydenseric.com/blog/fun-with-sass-and-font-icons) [tutorials](http://jaydenseric.com/blog/font-icons-like-a-boss-with-sass-and-font-custom) which spurred this idea along. 
