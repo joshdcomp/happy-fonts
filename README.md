@@ -15,3 +15,8 @@ I haven't had a chance to write helpful docs yet, but the main points to know ar
 - And you can change the font-face name/classname prefix for your font name/icon classnames in `in/fontcustom.yml`
 
 \* I know it's counterintuitive, but that's the way things are until [this bug](https://github.com/FontCustom/fontcustom/issues/195#issuecomment-38879690) gets fixed y'dig?
+
+Credits
+=======
+
+Thanks to @jaydenseric for [his](http://jaydenseric.com/blog/fun-with-sass-and-font-icons) [tutorials](http://jaydenseric.com/blog/font-icons-like-a-boss-with-sass-and-font-custom) which spurred this idea along. 
