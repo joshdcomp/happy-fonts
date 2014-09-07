@@ -1,0 +1,18 @@
+$iconsFamily: "happy-icons", sans-serif;
+@font-face {
+  font-family: "happy-icons";
+  src: font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.eot");
+  src: font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.eot?#iefix") format("embedded-opentype"),
+       font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.woff") format("woff"),
+       font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.ttf") format("truetype"),
+       font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.svg#happy-icons") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "happy-icons";
+    src: font-url("happy-icons_d860d8edeaf8a4010befc0d9a4c27e0f.svg#happy-icons") format("svg");
+  }
+}
