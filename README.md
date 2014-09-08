@@ -3,6 +3,8 @@ happy-fonts
 
 A quick boilerplate framework for fontcustom to make font integration with your project more seamless
 
+A preview/reference page is forthcoming, but the repo as it stands is pretty much all you need to inject fontcustom into your SASS project. I might add support for less at some point, but for now there's more on my roadmap than dealing with that. 
+
 Usage
 =====
 
@@ -19,4 +21,4 @@ I haven't had a chance to write helpful docs yet, but the main points to know ar
 Credits
 =======
 
-Thanks to [@jaydenseric](https://twitter.com/jaydenseric) for [his](http://jaydenseric.com/blog/fun-with-sass-and-font-icons) [tutorials](http://jaydenseric.com/blog/font-icons-like-a-boss-with-sass-and-font-custom) which spurred this idea along. 
+Thanks to [@jaydenseric](https://twitter.com/jaydenseric) for [his](http://jaydenseric.com/blog/fun-with-sass-and-font-icons) [tutorials](http://jaydenseric.com/blog/font-icons-like-a-boss-with-sass-and-font-custom) which spurred this idea along.

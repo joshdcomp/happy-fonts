@@ -2,3 +2,9 @@
 $icons: (<% @glyphs.each do |name, value| %>
     '<%= name.to_s %>': '\<%= value[:codepoint].to_s(16) %>',<% end %>
 );
+// Setup a class name for each icon
+@each $name, $char in $icons {
+    .icon-#{$name} {
+        content: $char;
+    }
+}
